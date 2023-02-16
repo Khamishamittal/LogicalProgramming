@@ -7,7 +7,6 @@ namespace LogicProgrammingProblems
 
         public static void CheckReverseNumber()
         {
-
             int n, reverse = 0, rem;
             Console.WriteLine("Enter the number");
             n=Convert.ToInt32(Console.ReadLine());
